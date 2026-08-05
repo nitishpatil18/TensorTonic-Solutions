@@ -21,6 +21,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 | Problem | Description | Link |
 |---|---|---|
+| Embedding Layer | Create PyTorch token embeddings and scale each lookup by the square root of the Transformer model dimension. | https://www.tensortonic.com/research/transformer/transformers-embedding |
 | Tokenization | Build a word-level Transformer tokenizer with fixed special-token IDs, sorted vocabulary entries, encoding, and decoding. | https://www.tensortonic.com/research/transformer/transformers-tokenization |
 | Boolean Indexing | Filter pandas rows by a numeric column threshold and return the matching records with their original column order. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-boolean-indexing |
 | Column Selection | Create a pandas DataFrame from dictionary data and extract one named column as an ordered list. | https://www.tensortonic.com/study-plans/pandas-basics/pandas-column-selection |
